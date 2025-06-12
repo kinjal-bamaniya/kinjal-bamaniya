@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 👨‍💻 Laravel Developer – Kinjal Bamaniya
 
@@ -69,16 +68,15 @@ Features:
 ## 🎓 Education
 
 **B.Tech Agricultural Information Technology 
-AAU Anand – Graduated 2020
+AAU Anand – Graduated 2022
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: kinjalbamaniya2001@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- 🌐 Website: [yourname.dev](https://yourname.dev)
+- 💼 LinkedIn: [linkedin.com/in/kinjal-bamaniya](https://in.linkedin.com/in/kinjal-bamaniya-339383214)  
+- 🐙 GitHub: [github.com/kinjal-bamaniya](https://github.com/kinjal-bamaniya/kinjal-bamaniya)  
 
 ---
 
