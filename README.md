@@ -24,35 +24,35 @@ A marketplace for buying and selling second-hand designer fashion. Users can neg
 Features:
 - Seller uploads, buyer browsing & purchasing
 - Integrated background removal & order tracking APIs
-  Stack: Laravel (API), Flutter (App), MySQL
+- Stack: Laravel (API), Flutter (App), MySQL
 
 ## 🔹 Play a Sport – Coaching Centre Platform
 Connects users with coaching centers to find and book sports sessions.
 Features:
 - User account creation and batch booking
 - Coaching center and admin management panels
-  Stack: Laravel 10.x, PHP 8.x, MySQL 5.7, HTML/CSS/JS
+- Stack: Laravel 10.x, PHP 8.x, MySQL 5.7, HTML/CSS/JS
 
 ## 🔹 One Percentage – Course & Community App
 A paid-access platform offering video courses, a chatroom, and a business idea sharing form.
 Features:
 - Web admin panel for content management
 - Course access, chatroom, notifications, and news feed
-  Stack: Laravel 10.x, PHP 8.x, MySQL 5.7, HTML/CSS/JS
+- Stack: Laravel 10.x, PHP 8.x, MySQL 5.7, HTML/CSS/JS
 
 ## 🔹 Surf Maps – Global Surf Spot Navigator
 A surfer-built map app for exploring surf spots globally, featuring real-time conditions, local insights, and community reviews.
 Features:
 - Surf spot map with live updates
 - Community-driven reviews & reports
-  Stack: Laravel (API), Flutter (App), MySQL
+- Stack: Laravel (API), Flutter (App), MySQL
 
 ## 🔹 RUOS – Rental Marketplace App
 A platform to rent, buy, or sell items like furniture and vehicles with verified listings and secure transactions.
 Features:
 - Multi-category listings, secure payment integration
 - User verification & rental booking system
-  Stack: Laravel (API), Flutter (App), MySQL
+- Stack: Laravel (API), Flutter (App), MySQL
 
 ---
 
